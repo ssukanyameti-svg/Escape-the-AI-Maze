@@ -1,0 +1,6 @@
+{
+  "name": "Escape the AI Maze",
+  "description": "An immersive 2D sci-fi adventure game where players navigate dynamic cyber mazes, solve logic puzzles and AI riddles, evade security drones, and gather keys to bypass the rogue Overseer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
